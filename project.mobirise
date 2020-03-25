@@ -62,8 +62,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "My Portfolio",
+        "meta_descr": "Know about me!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
